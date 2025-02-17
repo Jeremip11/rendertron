@@ -27,7 +27,7 @@
     "chrome-launcher": "^0.10.2",
     "chrome-remote-interface": "^0.26.0",
     "fs-extra": "^7.0.0",
-    "koa": "^2.5.2",
+    "koa": "^2.15.4",
     "koa-bodyparser": "^4.2.1",
     "koa-compress": "^3.0.0",
     "koa-route": "^3.2.0",
